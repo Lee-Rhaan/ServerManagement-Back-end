@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a009aea-a95a-4f29-9e3e-40393bf8cdd1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/com/example/server/model/Response.java" afterDir="false" />
+    <list default="true" id="4a009aea-a95a-4f29-9e3e-40393bf8cdd1" name="Changes" comment="Created new class to handle responses and added functionality to setImage method">
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/com/example/server/resource/ServerResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/example/server/service/implementation/ServerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/example/server/service/implementation/ServerServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +58,14 @@
       <option name="presentableId" value="Default" />
       <updated>1632822646953</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created new class to handle responses and added functionality to setImage method">
+      <created>1632902004757</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632902004757</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -165,5 +171,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created new class to handle responses and added functionality to setImage method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created new class to handle responses and added functionality to setImage method" />
   </component>
 </project>
