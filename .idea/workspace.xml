@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a009aea-a95a-4f29-9e3e-40393bf8cdd1" name="Changes" comment="Created new class to handle responses and added functionality to setImage method">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="4a009aea-a95a-4f29-9e3e-40393bf8cdd1" name="Changes" comment="Finished the controller class and added a few servers to the main application file to test out the requests + added the database functionality.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/src/main/java/com/example/server/ServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/example/server/ServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/example/server/resource/ServerResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/example/server/resource/ServerResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633021813383</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finished the controller class and added a few servers to the main application file to test out the requests + added the database functionality.">
+      <created>1633082995061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633082995061</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -204,6 +208,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created new class to handle responses and added functionality to setImage method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created new class to handle responses and added functionality to setImage method" />
+    <MESSAGE value="Finished the controller class and added a few servers to the main application file to test out the requests + added the database functionality." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the controller class and added a few servers to the main application file to test out the requests + added the database functionality." />
   </component>
 </project>
